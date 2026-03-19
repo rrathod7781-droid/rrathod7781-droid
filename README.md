@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrathod7781-droid&label=Profile%20views&color=0e75b6&style=flat" alt="rrathod7781-droid" /> </p>
 
-- 🌱 I’m currently Pursuring **Diploma in Computer Enginnering**
+- 🌱 I’m currently Pursuring **Diploma in Computer Science Enginnering**
 
 - 💬 Ask me about **Python,C++**
 
