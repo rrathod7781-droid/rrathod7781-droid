@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrathod7781-droid&label=Profile%20views&color=0e75b6&style=flat" alt="rrathod7781-droid" /> </p>
 
-- 🌱 I’m currently learning **Ai/Ml**
+- 🌱 I’m currently Pursuring **Diploma in Computer Enginnering**
 
 - 💬 Ask me about **Python,C++**
 
