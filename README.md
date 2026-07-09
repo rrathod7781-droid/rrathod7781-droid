@@ -1,27 +1,25 @@
-<h1 align="center">Hi 👋, I'm Rohit Rathod</h1>
-<h3 align="center">A passionate Ai Engineer from India</h3>
+# 💫 Hi 👋, I'm Rohit Rathod
+🎓 **Diploma Student in Computer Engineering (5th Semester)**<br><br>💼 **Generative AI & Python Intern** at **First Quad Tech Solution**<br><br>🤖 Passionate about **Artificial Intelligence** and **Python**, with a strong interest in building practical AI solutions and continuously expanding my technical expertise.<br><br>📚 **Currently Learning:**<br><br>* 🧠 Machine Learning<br>* 🤖 Large Language Models (LLMs)<br>* 🔍 Retrieval-Augmented Generation (RAG)<br>* 🔗 Model Context Protocol (MCP)<br><br>💡 I enjoy exploring emerging AI technologies, solving programming challenges with Python, and building hands-on projects that strengthen my skills.<br><br>🌱 Always learning, improving, and open to collaborating on AI and Python-based projects.<br>
 
-<img align = "Right" alt = "Coding" width = "400" src="https://www.bing.com/images/search?view=detailV2&ccid=ZSVmWGcc&id=650CAE794135EBA3FBBFCDD7737CC2D14C1BCA65&thid=OIP.ZSVmWGcc1weENb0ShawWxwHaFr&mediaurl=https%3a%2f%2fuser-images.githubusercontent.com%2f69011963%2f137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif&exph=488&expw=636&q=animated+coding&FORM=IRPRST&ck=136EDF4826BAE45ED8B557C2B1AA86F1&selectedIndex=121&itb=0">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rrathod7781-droid&label=Profile%20views&color=0e75b6&style=flat" alt="rrathod7781-droid" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_rathod_official_06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohit-rathod-717736378/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rrathod7781@gmail.com) 
 
-- 🌱 I’m currently Pursuring **Diploma in Computer Science Enginnering**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-- 💬 Ask me about **Python,C++**
+<!-- Snake Game Repo View -->
 
-- 📫 How to reach me **rrathod7781@gmail.com**
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-rathod-717736378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-rathod-717736378" height="30" width="40" /></a>
-<a href="https://instagram.com/rohit_rathod_official_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit_rathod_official_06" height="30" width="40" /></a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rrathod7781-droid&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rrathod7781-droid&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rrathod7781-droid&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+[![](https://komarev.com/ghpvc/?username=rrathod7781-droid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rrathod7781-droid&show_icons=true&locale=en&layout=compact" alt="rrathod7781-droid" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rrathod7781-droid&show_icons=true&locale=en" alt="rrathod7781-droid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rrathod7781-droid&" alt="rrathod7781-droid" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
