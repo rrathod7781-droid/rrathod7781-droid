@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Rohit Rathod
-🎓 **Diploma Student in Computer Engineering (5th Semester)**<br><br>💼 **Generative AI & Python Intern** at **First Quad Tech Solution**<br><br>🤖 Passionate about **Artificial Intelligence** and **Python**, with a strong interest in building practical AI solutions and continuously expanding my technical expertise.<br><br>📚 **Currently Learning:**<br><br>* 🧠 Machine Learning<br>* 🤖 Large Language Models (LLMs)<br>* 🔍 Retrieval-Augmented Generation (RAG)<br>* 🔗 Model Context Protocol (MCP)<br><br>💡 I enjoy exploring emerging AI technologies, solving programming challenges with Python, and building hands-on projects that strengthen my skills.<br><br>🌱 Always learning, improving, and open to collaborating on AI and Python-based projects.<br>
+🎓 **Diploma Student in Computer Engineering (5th Semester)**<br><br>💼 **Generative AI & Python Intern** at **First Quad Tech Solution**<br><br>🤖 Passionate about **Artificial Intelligence** and **Python**, with a strong interest in building practical AI solutions and continuously expanding my technical expertise.💡 I enjoy exploring emerging AI technologies, solving programming challenges with Python, and building hands-on projects that strengthen my skills.<br><br>🌱 Always learning, improving, and open to collaborating on AI and Python-based projects.<br>
 
 
 ## 🌐 Socials:
